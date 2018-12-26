@@ -1,2 +1,2 @@
 # tdbpython
-Python interface for TDB
+Python interface for 万得宏汇 TDB
